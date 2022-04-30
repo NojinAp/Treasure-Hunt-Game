@@ -2,8 +2,6 @@
     ==================================================
     Treasure Hunt Game
     ==================================================
-    Name   : Nozhin Azarpanah
-    Date   : October 8, 2021
 */
 
 #define _CRT_SECURE_NO_WARNINGS
